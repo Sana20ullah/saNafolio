@@ -174,12 +174,12 @@ body, html {
   .left-panel p {
     width: 350px;
   font-size: 18px ;
-  margin-left: 80px;
+  margin-left: 0px;
   line-height: 1.6;
   color: #bbb;
 }
 .social-icons{
-    margin-left: 100px;
+    margin-left: 25px;
     gap: 50px;
 }
 }
